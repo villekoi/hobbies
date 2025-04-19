@@ -10,7 +10,7 @@ Download the template file from the repository.
 
 Print the template on your preferred paper size. They are designed for A4.
 
-Fill in the stamp information manually. Cut along the "perforations" or in the imperforate design, in the middle of the black area. Just like in the 1840s.
+Fill in the stamp information manually. Cut along the "perforations", or in the imperforate design, try to keep half way between the tags while cutting. Just like in the 1840s.
 
 📂 Files Included
 stamp_tag_template.pdf: Ready-to-print PDF version of the "perforated" template.
